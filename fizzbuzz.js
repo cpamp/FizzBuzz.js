@@ -1,7 +1,7 @@
 (function() {
     function FizzBuzz(begin, end) {
         if(!end || isNaN(end)) { end = 100; }
-        if(!begin || isNaN(stat)) { begin = 1; }
+        if(!begin || isNaN(begin)) { begin = 1; }
         this._begin = begin;
         this._end = end;
         this._fizz = 'Fizz';
