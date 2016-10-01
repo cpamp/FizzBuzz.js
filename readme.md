@@ -1,2 +1,2 @@
 #FizzBuzz.js
-An object oriented FizzBuzz implementation.
+An object oriented FizzBuzz implementation for JavaScript.
